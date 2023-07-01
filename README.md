@@ -1,11 +1,12 @@
 # Git
 
-- git config user.name "Your Name Here"
-- git config user.email your@email.com
+- Setup git if your main user is different
+    - git config user.name "Your Name Here"
+    - git config user.email your@email.com
 
 # Go
 
-Initialize
-
-- go mod init khurram-uworx/go-lang
-- go mod tidy
+- Setup Go and Code; https://code.visualstudio.com/docs/languages/go
+- Initialize folder
+    - go mod init khurram-uworx/hello-go
+    - go mod tidy
